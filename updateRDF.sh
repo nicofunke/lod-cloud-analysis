@@ -1,0 +1,1 @@
+wget --recursive --no-parent http://www.dbis.informatik.uni-goettingen.de/teaching/SemWeb/RDF/
